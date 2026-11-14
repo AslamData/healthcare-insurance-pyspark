@@ -1,0 +1,2 @@
+CREATE SCHEMA IF NOT EXISTS healthcare_clean;
+CREATE SCHEMA IF NOT EXISTS "Project-Output";
